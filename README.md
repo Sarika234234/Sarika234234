@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 🤝 I’m looking for help with [Web development](App development)
+- 🤝 I’m looking for help with [Web development] [App development]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
