@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Sarika
+##                                     👋 Hey, I'm Sarika
 
 🎓 student  
 🌱 Still learning and growing every day  
