@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👯 I’m looking to collaborate on **Web development**
 
-- 🤝 I’m looking for help with **Web development**
 
 
 <h3 align="left">Languages and Tools:</h3>
