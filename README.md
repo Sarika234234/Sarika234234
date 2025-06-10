@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👩‍💻 
+- 👩‍💻 love coding 
 
 
 
