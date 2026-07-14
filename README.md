@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarika</h1>
+<h1 align="center">Hi 👋,I'm Sarika</h1>
 <h3 align="center">A passionate student/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarika234234&label=Profile%20views&color=0e75b6&style=flat" alt="sarika234234" /> </p>
