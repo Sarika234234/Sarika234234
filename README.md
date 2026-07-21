@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on Lotus-AI <br>👯 I’m looking to collaborate on IntQuiz <br>🤝 I’m looking for help with Lotus-AI <br>🌱 I’m currently learning web development <br>💬 Ask me about Html ,Css,Python<br>⚡ Fun fact  I'm always learning something new, one commit at a time.
+## 👋 About Me
+
+🎓 Computer Science Graduate 
+
+💻 Passionate about Web Development
+
+💡 Curiosity fuels my learning
+
+🚀 Love building projects that bring ideas to life
+
+🌱 Exploring technology through code and creativity
+
+🧠 Interested in AI, problem solving, and emerging technologies
+
+✨ Fascinated by technology and innovation
+
+📚 Always learning • Always building • Always growing
 
 
 # 💻 Tech Stack:
